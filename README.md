@@ -1,5 +1,13 @@
  ![Dashboard Preview](https://github.com/Deepakkumbhar07/-IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI/blob/main/IPL%20ANALYSIS.png)
 
+  ![Dashboard Preview](https://github.com/Deepakkumbhar07/-IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI/blob/main/IPL%20ANALYSIS%201.png)
+
+  ![Dashboard Preview](https://github.com/Deepakkumbhar07/-IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI/blob/main/IPL%20ANALYSIS%201.png)
+
+![Dashboard Preview](https://github.com/Deepakkumbhar07/-IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI/blob/main/IPL%20ANALYSIS%201.png)
+
+
+
 ## -IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI📊🏏
 
 
