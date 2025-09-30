@@ -1,3 +1,5 @@
+ ![Dashboard Preview](https://github.com/Deepakkumbhar07/Vrinda-Store-Excel-Report/blob/main/Vrinda%20Store%20Report%20Dashboard.png)
+
 ## -IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI📊🏏
 
 
