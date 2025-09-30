@@ -1,4 +1,4 @@
-## -IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI
+## -IPL-Season-Analysis-Dashboard-2008-2025-Built-with-Power-BI📊🏏
 
 
 Dive into 18 years of IPL cricket data — track season winners, runner-ups, top performers, match stats, batting and bowling trends, and dynamic team standings across all seasons. Powered by DAX and ChatGPT 🤖, this dashboard delivers rich interactivity and insights from one of the world’s biggest cricket leagues.
